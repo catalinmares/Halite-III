@@ -1,9 +1,8 @@
-						   PA Project 2019
-                              Team Rocket
-                                 Halite
+# PA Project 2019
+# Halite III
                     
 Members:
-- Cătălin-Constantin MAREȘ
-- Ionuț-Marius BĂLĂȘESCU
-- Teodor-Grigore MUTU
-- Bogdan KUCSINSCHI
+* Cătălin-Constantin MAREȘ
+* Ionuț-Marius BĂLĂȘESCU
+* Teodor-Grigore MUTU
+* Bogdan KUCSINSCHI
