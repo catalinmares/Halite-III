@@ -1,0 +1,15 @@
+MyBot
+*.hlt
+*.log
+*~
+*.pyc
+*.pyo
+__pycache__/
+*.class
+*.ipr
+*.iws
+environment/*
+replays/*
+replays-readable/*
+docs/*
+*.json
