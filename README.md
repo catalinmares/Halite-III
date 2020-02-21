@@ -3,7 +3,7 @@
                                  Halite
                     
 Members:
-- Cătălin-Constantin MAREȘ, catalin.mares, 322 CD
-- Ionuț-Marius BĂLĂȘESCU, ionut.balasescu, 322 CD
-- Teodor-Grigore MUTU, teodor_grigore.mutu, 325 CD
-- Bogdan KUCSINSCHI, bogdan.kucsinschi, 325 CD# Halite III
+- Cătălin-Constantin MAREȘ
+- Ionuț-Marius BĂLĂȘESCU
+- Teodor-Grigore MUTU
+- Bogdan KUCSINSCHI
